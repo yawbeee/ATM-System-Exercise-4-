@@ -1,0 +1,3 @@
+/Users/yawbarimah/CLionProjects/Exercises4/cmake-build-debug/CMakeFiles/Exercises4.dir
+/Users/yawbarimah/CLionProjects/Exercises4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yawbarimah/CLionProjects/Exercises4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
